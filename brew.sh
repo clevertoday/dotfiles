@@ -46,7 +46,7 @@ brew install vim --override-system-vi
 brew install homebrew/dupes/grep
 brew install homebrew/dupes/openssh
 brew install homebrew/dupes/screen
-brew install homebrew/php/php55 --with-gmp
+brew install homebrew/php/php56 --with-gmp
 
 # Install font tools.
 brew tap bramstein/webfonttools
@@ -89,6 +89,7 @@ brew install git-lfs
 brew install imagemagick --with-webp
 brew install lua
 brew install lynx
+brew install node
 brew install p7zip
 brew install pigz
 brew install pv
